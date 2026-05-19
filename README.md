@@ -2,7 +2,7 @@
 
 Apaixonada por resolver problemas e criar impacto através do código.
 
-Minha jornada profissional começou na **Administração**, onde desenvolvi uma visão estratégica e foco em eficiência. Movida pela curiosidade tecnológica, mergulhei no universo de **Análise e Desenvolvimento de Sistemas (ADS)**. Hoje, como **Engenheira de Software**, eu unifico essas duas visões: a de negócios e a técnica. Meu foco principal é o Back-end, mas transito com tranquilidade pelo Front-end para garantir uma entrega completa.
+Minha jornada profissional começou na **Administração**, onde desenvolvi uma visão estratégica e foco em eficiência. Movida pela curiosidade tecnológica, mergulhei no universo de **Análise e Desenvolvimento de Sistemas (ADS)**. Hoje, como **Desenvolvedora JavaScript Jr**, eu unifico essas duas visões: a de negócios e a técnica. Meu foco principal é o Back-end, mas transito com tranquilidade pelo Front-end para garantir uma entrega completa.
 
 ### 🧩 Minha Caixa de Ferramentas:
 
